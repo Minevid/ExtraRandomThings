@@ -1,0 +1,17 @@
+[
+{
+  "modid": "extrarandomthings",
+  "name": "Extra Random Things",
+  "description": "Extending Minecraft with random things and adds more usage to some items",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "Minevid aka Reynout" ],
+  "credits": "Created by Minevid aka Reynout",
+  "logoFile": "",
+  "screenshots": [],
+  "parent":"",
+  "dependencies": []
+}
+]
