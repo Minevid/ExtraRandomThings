@@ -44,6 +44,12 @@ public class ModCrafting  {
         GameRegistry.addShapedRecipe(new ItemStack(ModItems.witchCard), "AB", 'A', new ItemStack(Items.SPIDER_EYE), 'B', new ItemStack(ModItems.emptyCard));
         //Knife
         GameRegistry.addShapedRecipe(new ItemStack(ModItems.knife), "  A"," A ","B  ", 'A', new ItemStack(Items.IRON_INGOT), 'B', new ItemStack(Items.STICK));
+        //Raw Fries
+        GameRegistry.addShapedRecipe(new ItemStack(ModItems.rawFries), "AB", 'A', new ItemStack(ModItems.knife), 'B', new ItemStack(Items.POTATO));
+
+
+
+
     }
 
 }
